@@ -7,142 +7,94 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rui Pinho
+    tagline: Front-end Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: rmapinho@gmail.com
+    phone: (+351) 913 221 190
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: rmapinho
+    xing: 
+    github: ruimpinho
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@rmapinho'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Portuguese (EU)
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Technology
         link:
 
-      - item: Snowboarding
+      - item: Cars
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software engineer & project manager 💻
+      • >4 years of professional experience
+      • HTML/CSS, JavaScript, C#
+      • Always ready to learn and tackle new challenges
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Biomedical Engineering
+      university: University of Coimbra (UC)
+      time: 2010 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Specialization in Biomedical Instrumentation and Biomaterials. First experience with Python, C, C#, Matlab, Java, among others.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer / Project Manager
+      time: 2017 - 2021
+      company: Sensing Future Technologies, Coimbra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Software Engineer. PhysioSensing modules (C#, WPF). Company and project websites (HTML/CSS/JS).
+        Lead Developer. Project ROSE. Built UI and video transmission method using SDK from an ultrasound probe.
+        International Project Manager. Raised €200k for R&D activities (Horizon Europe, AAL). 
+        Proposal writer. Marketing Manager. Communication strategy, email campaigns, video editing (Final Cut Pro X), blog writer.        
+    - role: Research Fellow
       time: 2014 - 2015
-      company: Google, London
+      company: Dept. of Chemical Engineering - UC, Coimbra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed and extensively tested an innovative medical device.
+        Advanced techniques: particle size analysis (DLS), electron microscopy (SEM/TEM), contact angle/transmittance analysis, bulk copolymerization and sol-gel methods.
+        The results of this project are protected by industrial property.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some projects I have worked on:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ROSE - Robot Sensing for Tele-Ecography
+        link: "https://youtu.be/b-PXUVOqjZY"
+        tagline: "ROSE is the ultimate telemedicine solution for remote ultrasound examinations on any part of the world. The doctor can work from a central hospital or even his own home, while the patients are remotely diagnosed from their nearest health center.
+        I built the user interface and worked on a video transmission method using the API from an ultrasound probe.
+        We took ROSE to the largest radiology trade fair in the world, RSNA Annual Meeting (Chicago, USA). It was a great experience to showcase my soft skills as a team player, public speaker, among others."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PhysioSensing - physical rehabilitation device
+        link: "https://www.physiosensing.net/"
+        tagline: "I built a software module for PhysioSensing, a medical device measuring feet pressure for physical rehabilitation. The main tech stack consists of C#, WPF and SQL (database to store and access patient data). This module was built by a team of 2. I made my commits with Sourcetree. Our team defined the sprints/goals using Atlassian Jira."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ABB Ball Dealer
+        link: "https://youtu.be/tyQr7PQp8zw"
+        tagline: "Working manipulation software of an ABB robot. I built the visual interface for the general user in C#."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+  
 publications:
     title: Publications
     intro: |
@@ -169,23 +121,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: HTML/CSS
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C#
         level: 60%
+
+      - name: React, Angular, Vue
+        level: 30%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
